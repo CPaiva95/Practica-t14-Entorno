@@ -1,0 +1,65 @@
+# 1- Enfoques de Pruebas:
+# A la hora de realizar las pruebas del codigo, es necesario tener en cuenta diferentes enfoques....
+# A)Enfoque exploratorio    -V
+# B)Enfoque basado en cajas   -V
+# C)Enfoque basado en vista
+# D)Desenfoque por ser miope
+
+# 2- Tipos de pruebas basadas en cajas
+# Como hemos visto anteriormente, existen diferentes tipos de pruebas de cajas.
+# A) Prueba de caja Blanca. -V
+# B) Prueba de caja agujero negro
+# C) Prueba de caja Pentagono
+# D) prueba de caja gris UFO
+#
+# 3- Niveles de pruebas: 
+# Podrimos decir que existen al mens tres niveles para la ejecución de las pruebas;
+# A) Pruebas de Denegación.
+# B) Pruebas de aceptacion. -V
+# C) Pruebas de Dieficiencia y accesibilidad.
+# D) Pruebas de Control de Alcoholemia.
+#
+#4- Niveles de pruebas "seguridad y A/B"
+# Las pruebas normalmente son escensiables en cualquier desarrollo Software;
+# A) Pruebas Testing
+# B) pruebas de Penetración
+# C)Pruebas de seguridad  -V
+# D) Pruebas de SEO
+#
+#5- ¿Cuál es el objetivo de las pruebas de caja gris?
+# A) Encontrar errores de implementación. -v
+# B) Encontrar errores de diseño.
+# C) Encontrar errores de usuario.
+# D) Encontrar errores de seguridad.
+#
+#6- ¿Qué tipo de pruebas suele ser muy utilizada en el desarrollo de aplicaciones móviles?
+# A) Pruebas de caja blanca.
+# B) Pruebas de caja negra.
+# C) Pruebas de caja gris.  -v
+# D) Pruebas de regresión.
+#
+#7- ¿Qué tipo de pruebas se recomienda utilizar para probar cambios en una función de código?
+# A) Pruebas de caja blanca. -V
+# B) Pruebas de caja negra.
+# C) Pruebas de regresión.
+# D) Pruebas de rendimiento.
+#
+#8- ¿Qué enfoque de pruebas se recomienda para validar soluciones de diferentes equipos en paralelo?
+# A) Pruebas de caja blanca.
+# B) Pruebas de caja negra.
+# C) Pruebas A/B.   -V
+# D) Pruebas de regresión.
+#
+#9- ¿Qué tipo de pruebas se recomienda para aplicar cambios en la tecnología de desarrollo?
+# A) Pruebas de caja blanca.
+# B) Pruebas de caja negra.
+# C) Pruebas de regresión.  -V
+# D) Pruebas de comparación.
+#
+#10- ¿Qué tipo de pruebas combina elementos de caja blanca y caja negra?
+# A) Pruebas de caja blanca.
+# B) Pruebas de caja negra.
+# C) Pruebas de caja gris. -V
+# D) Pruebas de regresión.
+#
+#
